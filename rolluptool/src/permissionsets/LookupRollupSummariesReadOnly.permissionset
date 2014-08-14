@@ -297,10 +297,6 @@
     </userPermissions>
     <userPermissions>
         <enabled>false</enabled>
-        <name>AllowViewKnowledge</name>
-    </userPermissions>
-    <userPermissions>
-        <enabled>false</enabled>
         <name>ApiEnabled</name>
     </userPermissions>
     <userPermissions>
